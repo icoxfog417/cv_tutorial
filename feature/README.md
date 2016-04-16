@@ -2,7 +2,7 @@
 
 Tutorial to detect and describe the feature of image by [OpenCV](http://docs.opencv.org/master/index.html).
 
-## [Go to the Tutorial (Jupyter notebook)](https://github.com/icoxfog417/cv_tutorial_feature/blob/master/cv_tutorial_feature.ipynb)
+## [Go to the Tutorial (Jupyter notebook)](https://github.com/icoxfog417/cv_tutorial/blob/master/feature/cv_feature_tutorial.ipynb)
 
 1. Harris Corner Detection  
 ![harris image](./samples/harris.PNG)
